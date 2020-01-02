@@ -5,4 +5,5 @@ content for the python and ML workshop
 2) Python/numpy-tutorial.ipynb
 
 3) ML/Machine Learning.pptx
-4) ML/Basic01.ipynb
+4) numpy-linearreg.ipynb
+5) ML/Basic01.ipynb
