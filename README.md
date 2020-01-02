@@ -3,9 +3,9 @@ Content for the python and ML workshop
 
 
 ### Structure of the workshop
-1) Python/Python_Notebook.ipynb	
-2) i>  Python/numpy-tutorial.ipynb 
-   ii> Pandas/*.ipynb
+1) Python/Python_Notebook.ipynb  
+2) > Python/numpy-tutorial.ipynb\
+   > Pandas/*.ipynb
 3) ML/Machine Learning.pptx
 --------------------------
 4) numpy-linearreg.ipynb
